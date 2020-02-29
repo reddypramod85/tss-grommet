@@ -557,7 +557,7 @@ export default () => {
             <Box align="start" justify="start" direction="row" alignSelf="start">
               <Button icon={<Previous />} primary={true} />
             </Box>
-            <Box align="center" justify="center" margin="medium" background={{"dark":false,"color":"light-2","image":"url('https://avatarmaker.net/avatars_upload/s011135515.jpg')"}} round="full" direction="row-responsive" pad="large" />
+            <Box align="center" justify="center" margin="medium" background={{"dark":false,"color":"light-2","image":"url('https://avatarmaker.net/avatars_upload/s190823517.jpg')"}} round="full" direction="row-responsive" pad="large" />
             <Heading margin="xsmall" level="1">
               Pramod
             </Heading>
